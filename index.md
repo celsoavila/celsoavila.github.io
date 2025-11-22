@@ -6,10 +6,11 @@ permalink: /
 
 # Celso Avila
 
-**Senior Financial Data Engineer & Quant Developer (Python | ML | Market Data | DLT)**
+**Senior Financial Data Engineer & Quant Developer (Python · ML · Market Data · DLT)**
 
 I design and build end-to-end pipelines for systematic strategies, credit models,
 market data ingestion and production ML systems.
+
 
 ---
 
@@ -36,7 +37,8 @@ market data ingestion and production ML systems.
 
 - **Factor Fund – Factor-based & ML-driven Equity Strategy**  
   Public, anonymized research pipeline showing M1–M5 (data → model → portfolio → backtest → factor analysis).  
-  👉 https://github.com/celsoavila/factor-fund
+  🔗 https://github.com/celsoavila/factor-fund
+
 
 See more on the [Projects](projects.md) page.
 
