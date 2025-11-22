@@ -6,7 +6,7 @@ permalink: /contact/
 
 If you would like to discuss opportunities, projects or collaborations, you can reach me at:
 
-- **Email:** your.email@domain.com    <!-- troque aqui -->
+- **Email:** celso.avila.quant@gmail.com    <!-- troque aqui -->
 - **GitHub:** https://github.com/celsoavila
 
 Open to:
