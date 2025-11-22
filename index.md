@@ -6,7 +6,12 @@ permalink: /
 
 # Celso Avila
 
-**Senior Financial Data Engineer & Quant Developer (Python | ML | Market Data | DLT)**
+**Senior Financial Data Engineer & Quant Developer**
+
+<span style="font-size:14px;">
+Python · Machine Learning · Market Data · DLT · Quant Systems · Financial Modeling
+</span>
+
 
 I design and build end-to-end pipelines for systematic strategies, credit models,
 market data ingestion and production ML systems.
