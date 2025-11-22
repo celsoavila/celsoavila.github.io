@@ -1,0 +1,12 @@
+title: "Celso Avila"
+description: "Senior Financial Data Engineer & Quant Developer"
+theme: minima
+
+markdown: kramdown
+show_excerpts: false
+
+header_pages:
+  - index.md
+  - projects.md
+  - about.md
+  - contact.md
